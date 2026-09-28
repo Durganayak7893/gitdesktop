@@ -6,4 +6,5 @@ int main()
     int a=10;
     int b=20;
     cout<<"sum"<<a+b<<endl;
+    cout<<"sub"<<a-b<<endl;
 }
